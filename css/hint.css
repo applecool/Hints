@@ -45,9 +45,9 @@
   /*padding: 1em; */
   position: absolute;
   left: 30px;
-  top: -15px;
-  width: 180px;
-  height: auto;
+  top: -29px;
+  width: 150px;
+  height: 30px;
 }
 
  /* styling for the arrow */
@@ -55,7 +55,7 @@
   content: "";
   position: absolute;
   left: -11px;
-  top: 15px;
+  top: 5px;
   border-style: solid;
   border-width: 10px 10px 10px 0;
   border-color: transparent #099DF6;
