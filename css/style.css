@@ -10,6 +10,9 @@ input{
   width: 200px;
   padding: 5px;
   color: brown;
+  box-shadow: 2px;
+  border-radius: 5px;
+  border-color: #000;
 }
 
 input[placeholder]{
