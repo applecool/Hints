@@ -9,10 +9,19 @@ body{
 input{
   width: 200px;
   padding: 5px;
+  color: brown;
 }
 
 input[placeholder]{
   font-style: normal;
   font-size: 13px;
   font-weight: bold;
+}
+
+footer{
+  margin-top: 320px;
+}
+
+hr{
+  border-style: ridge;
 }
