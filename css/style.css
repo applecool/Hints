@@ -1,13 +1,13 @@
 /*styles for the main web*/
+
 @import url(http://fonts.googleapis.com/css?family=Libre+Baskerville);
-body{
+body {
   font-family: 'Libre Baskerville';
   text-align: center;
   margin-top: 300px;
   background-color: #C0C0C0;
 }
-
-input{
+input {
   width: 200px;
   padding: 5px;
   color: brown;
@@ -15,21 +15,17 @@ input{
   border-radius: 5px;
   border-color: #000;
 }
-
-input:hover{
+input:hover {
   border-color: #00FF11;
 }
-
-input[placeholder]{
+input[placeholder] {
   font-style: normal;
   font-size: 13px;
   font-weight: bold;
 }
-
-footer{
+footer {
   margin-top: 320px;
 }
-
-hr{
+hr {
   border-style: ridge;
 }
